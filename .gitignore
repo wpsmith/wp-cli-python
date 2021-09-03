@@ -1,0 +1,6 @@
+_deprecated
+.env
+*.log
+.idea
+venv
+wp-cli.yml
